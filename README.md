@@ -54,8 +54,8 @@ Este é um projeto de um site dinâmico para explorar e gerenciar filmes favorit
 
 
 🔗 Deploy<br/>
-O projeto foi publicado no Netlify para acesso online.<br/>
-<a href="https://primee-flix.netlify.app/" target="_blank">Clique aqui para acessar o site</a><br/><br/>
+O projeto foi publicado no Vercel para acesso online.<br/>
+<a href="https://prime-flix-snowy.vercel.app/" target="_blank">Clique aqui para acessar o site</a><br/><br/>
 
 
  
